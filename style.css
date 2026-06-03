@@ -1,0 +1,104 @@
+
+.h1{
+    text-align: center;
+    font-family: serif;
+}
+
+
+main h3{
+    color:green;
+}
+
+main h2{
+    color: red;
+}
+
+header h1{
+    color: red;
+}
+
+.intro{
+    color:greenyellow;
+}
+
+nav{
+    font-size: 20px;
+    margin: 30px;
+    color: black;
+}
+
+body{
+    background-color:#fbffd4;
+}
+
+nav a{
+text-decoration: none;
+
+}
+
+header h3{
+    color:green;
+}
+
+.тигр{
+    border:4px solid green;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+.медведь{
+    border:4px solid green;
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.барс{
+    border:4px solid green;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 30px;
+
+}
+
+.intro{
+    color:green;
+    margin-bottom: 20px;
+}
+
+header{
+    background-color:#ffafa1;
+}
+
+footer{
+    background-color:#c4c4c0;
+}
+
+section a {
+    font-size: 21px;
+    text-decoration: none;
+    border: 2px solid blue;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+a:hover {
+    box-shadow: 3px 5px 10px gold;
+}
+
+nav a{
+    border:3px solid aquamarine;
+    background-color: rgb(19, 84, 84);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    color:aliceblue;
+    font-size: 16px;
+
+
+}
